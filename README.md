@@ -15,7 +15,6 @@
 | [B](appendix-B_heuristic-evaluation-full-results.md) | Heuristic Evaluation — Full Violation Tables and Summary |
 | [C](appendix-C_heuristic-violation-log.md) | Heuristic Evaluation — Detailed Violation Log |
 | [D](appendix-D_design-artifact-analysis.md) | Comparative Design Artifact Analysis |
-| [E](appendix-E_supplementary-evaluation-methods.md) | Supplementary Evaluation Methods (Log Analysis, KLM, Cognitive Walkthrough) |
 | [F](appendix-F_ai-prompts-framework.md) | AI Summary Prompts Framework and Citation Reference Scheme |
 | [G](appendix-G_age-adaptive-threshold-framework.md) | Age-Adaptive Vital Sign Threshold and Medication Classification Framework |
 | [H](appendix-H_evaluation-study-design.md) | Evaluation Study Design — Full Protocol |
