@@ -1,4 +1,4 @@
-# Appendix F — AI Summary Prompts Framework and Citation Reference Scheme
+# Appendix E — AI Summary Prompts Framework and Citation Reference Scheme
 
 > **Paper:** Designing an AI-Assisted Paediatric ICU Timeline Dashboard — BritCHI 2026  
 > **Source module:** `modular_app/ai_report_context.py`, `modular_app/llm_client.py`  

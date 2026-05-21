@@ -1,4 +1,4 @@
-# Appendix G — Age-Adaptive Vital Sign Threshold and Medication Classification Framework
+# Appendix F — Age-Adaptive Vital Sign Threshold and Medication Classification Framework
 
 > **Paper:** Designing an AI-Assisted Paediatric ICU Timeline Dashboard — BritCHI 2026  
 > **Source module:** `modular_app/ml/thresholds.py`, `modular_app/references/vitals.json`, `modular_app/references/medecations.json`  

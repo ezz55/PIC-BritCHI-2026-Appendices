@@ -15,10 +15,10 @@
 | [B](appendix-B_heuristic-evaluation-full-results.md) | Heuristic Evaluation — Full Violation Tables and Summary |
 | [C](appendix-C_heuristic-violation-log.md) | Heuristic Evaluation — Detailed Violation Log |
 | [D](appendix-D_design-artifact-analysis.md) | Comparative Design Artifact Analysis |
-| [F](appendix-F_ai-prompts-framework.md) | AI Summary Prompts Framework and Citation Reference Scheme |
-| [G](appendix-G_age-adaptive-threshold-framework.md) | Age-Adaptive Vital Sign Threshold and Medication Classification Framework |
-| [H](appendix-H_evaluation-study-design.md) | Evaluation Study Design — Full Protocol |
-| [I](appendix-I_pic-dataset-reference.md) | PIC Dataset Reference — Table Schemas and Data Flow |
+| [E](appendix-E_ai-prompts-framework.md) | AI Summary Prompts Framework and Citation Reference Scheme |
+| [F](appendix-F_age-adaptive-threshold-framework.md) | Age-Adaptive Vital Sign Threshold and Medication Classification Framework |
+| [G](appendix-G_evaluation-study-design.md) | Evaluation Study Design — Full Protocol |
+| [H](appendix-H_pic-dataset-reference.md) | PIC Dataset Reference — Table Schemas and Data Flow |
 
 ---
 

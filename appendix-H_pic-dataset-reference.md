@@ -1,4 +1,4 @@
-# Appendix I — PIC Dataset Reference: Table Schemas and Data Flow
+# Appendix H — PIC Dataset Reference: Table Schemas and Data Flow
 
 > **Paper:** Designing an AI-Assisted Paediatric ICU Timeline Dashboard — BritCHI 2026  
 > **Dataset:** Paediatric Intensive Care (PIC) v1.1.0  
