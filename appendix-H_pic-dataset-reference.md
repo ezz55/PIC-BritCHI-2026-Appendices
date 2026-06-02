@@ -1,6 +1,6 @@
 # Appendix H — PIC Dataset Reference: Table Schemas and Data Flow
 
-> **Paper:** Designing an AI-Assisted Paediatric ICU Timeline Dashboard — BritCHI 2026  
+> **Paper:** A Human-centred Generative AI Dashboard for Reducing Cognitive Overload in Paediatric Intensive Care  
 > **Dataset:** Paediatric Intensive Care (PIC) v1.1.0  
 > **Reference:** Zeng et al. (2020) — original PIC dataset publication
 

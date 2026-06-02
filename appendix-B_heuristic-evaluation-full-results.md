@@ -1,6 +1,6 @@
 # Appendix B — Heuristic Evaluation: Full Violation Tables and Summary
 
-> **Paper:** Designing an AI-Assisted Paediatric ICU Timeline Dashboard — BritCHI 2026  
+> **Paper:** A Human-centred Generative AI Dashboard for Reducing Cognitive Overload in Paediatric Intensive Care  
 > **Interfaces audited:** `modular_app` (intervention) vs `baseline-ehr` (control — faithful traditional EHR replica)  
 > **Evaluator:** Single expert (declared limitation; see §2.8.4 in main paper)  
 > **Frameworks:** Nielsen's 10 Heuristics · TURF · ISO 9241-110 · HIMSS CDS Rights · FDA UX Guidance  

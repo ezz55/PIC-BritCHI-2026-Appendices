@@ -1,6 +1,6 @@
 # Appendix D — Comparative Design Artifact Analysis
 
-> **Paper:** Designing an AI-Assisted Paediatric ICU Timeline Dashboard — BritCHI 2026  
+> **Paper:** A Human-centred Generative AI Dashboard for Reducing Cognitive Overload in Paediatric Intensive Care  
 > **References:** Engeström (1987); Hutchins (1995); Endsley (1995); Nardi (1996); Zhang & Norman (1997); Wright et al. (2000); Davidson et al. (2022); Wac et al. (2023); Rosenbacke et al. (2024)
 
 ---

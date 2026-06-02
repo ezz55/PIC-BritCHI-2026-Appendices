@@ -1,6 +1,6 @@
 # Appendix A — Design Requirements R1–R6: Traceability and Rationale
 
-> **Paper:** Designing an AI-Assisted Paediatric ICU Timeline Dashboard — BritCHI 2026  
+> **Paper:** A Human-centred Generative AI Dashboard for Reducing Cognitive Overload in Paediatric Intensive Care  
 > **References:** Hevner et al. (2004); Nielsen (1994); Endsley (1995); Sweller (2011); Davidson et al. (2022); Wac et al. (2023); Strechen et al. (2024); Rosenbacke et al. (2024)
 
 ---

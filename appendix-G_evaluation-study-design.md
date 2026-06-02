@@ -1,6 +1,6 @@
 # Appendix G — Evaluation Study Design: Full Protocol
 
-> **Paper:** Designing an AI-Assisted Paediatric ICU Timeline Dashboard — BritCHI 2026  
+> **Paper:** A Human-centred Generative AI Dashboard for Reducing Cognitive Overload in Paediatric Intensive Care  
 > **References:** Brooke (1996); Hart & Staveland (1988); Hart (2006); Lewis (2018); Richardson et al. (2017); Pollack et al. (2020); Zeng et al. (2020); Strechen et al. (2024); Endsley (1995); Kushniruk & Patel (2004)
 
 ---

@@ -1,6 +1,6 @@
 # Appendix F — Age-Adaptive Vital Sign Threshold and Medication Classification Framework
 
-> **Paper:** Designing an AI-Assisted Paediatric ICU Timeline Dashboard — BritCHI 2026  
+> **Paper:** A Human-centred Generative AI Dashboard for Reducing Cognitive Overload in Paediatric Intensive Care  
 > **Source module:** `modular_app/ml/thresholds.py`, `modular_app/references/vitals.json`, `modular_app/references/medecations.json`  
 > **Design requirement:** R2 — Age-Aware Interpretation
 

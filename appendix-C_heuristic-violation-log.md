@@ -1,6 +1,6 @@
 # Appendix C — Heuristic Evaluation: Detailed Violation Log
 
-> **Paper:** Designing an AI-Assisted Paediatric ICU Timeline Dashboard — BritCHI 2026  
+> **Paper:** A Human-centred Generative AI Dashboard for Reducing Cognitive Overload in Paediatric Intensive Care  
 > **Status:** Complete — corrected against live interface behaviour + source code verification (correction pass 5)  
 > **Interfaces audited:** `modular_app` (intervention) vs `baseline-ehr` (control — faithful traditional EHR replica)
 

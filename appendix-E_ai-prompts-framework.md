@@ -1,6 +1,6 @@
 # Appendix E — AI Summary Prompts Framework and Citation Reference Scheme
 
-> **Paper:** Designing an AI-Assisted Paediatric ICU Timeline Dashboard — BritCHI 2026  
+> **Paper:** A Human-centred Generative AI Dashboard for Reducing Cognitive Overload in Paediatric Intensive Care  
 > **Source module:** `modular_app/ai_report_context.py`, `modular_app/llm_client.py`  
 > **Model:** DeepSeek Chat (OpenAI-compatible API endpoint); temperature 0.0, top\_p 1.0 (deterministic decoding)
 
