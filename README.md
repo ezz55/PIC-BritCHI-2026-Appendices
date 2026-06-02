@@ -1,6 +1,6 @@
 # PIC-BritCHI-2026 Supplementary Appendices
 
-**Paper:** Designing an AI-Assisted Paediatric ICU Timeline Dashboard — BritCHI 2026  
+**Paper:** A Human-centred Generative AI Dashboard for Reducing Cognitive Overload in Paediatric Intensive Care — BritCHI 2026  
 **Repository:** [ezz55/PIC-BritCHI-2026-Appendices](https://github.com/ezz55/PIC-BritCHI-2026-Appendices)  
 **System:** PIC Dashboard (`modular_app`) vs. Baseline EHR (`baseline-ehr`)  
 **Dataset:** Paediatric Intensive Care (PIC) v1.1.0 (de-identified)
